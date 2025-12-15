@@ -13,11 +13,11 @@
 
 1. Скопируйте файлы: index.html, style.css, script.js
 2. Создайте папку img и добавьте изображения:
-- Rostov-on-Don, Admiral.png
-- Sochi_Thieves.png
-- Rostov-on-Don_Patriotic.png
-- left_arrow.svg
-- right_arrow.svg
+ - Rostov-on-Don, Admiral.png
+ - Sochi_Thieves.png
+ - Rostov-on-Don_Patriotic.png
+ - left_arrow.svg
+ - right_arrow.svg
 3. Откройте index.html в браузере
 
 ## Технологии
