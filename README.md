@@ -11,13 +11,8 @@
 
 ## Быстрый старт
 
-1. Скопируйте файлы: index.html, style.css, script.js
-2. Создайте папку img и добавьте изображения:
- - Rostov-on-Don, Admiral.png
- - Sochi_Thieves.png
- - Rostov-on-Don_Patriotic.png
- - left_arrow.svg
- - right_arrow.svg
+1. Скачайте проект
+2. Сохраните файлы в удобное место
 3. Откройте index.html в браузере
 
 ## Технологии
